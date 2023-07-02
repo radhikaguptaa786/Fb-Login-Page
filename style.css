@@ -17,7 +17,7 @@ body{
     justify-content: center;
     /* background-color: rgba(137, 43, 226, 0.438); */
 }
-.col-5 img{
+.col-md-7 img{
    height: 100px;
    margin-top: 90px ;
    margin-left: -28px;
@@ -26,7 +26,7 @@ body{
    min-width: 50%;
 }
 
-.col-4 .container{
+.col-md-5 .container{
     background-color: rgb(255, 255, 255);
     border-radius: 5px;
     margin: 50px 0 30px 0;
@@ -34,7 +34,7 @@ body{
     min-width: 50%;
     box-shadow: 1px 1px 4px 4px #beb7b748;
 }
-.col-4 .container input{
+.col-md-5 .container input{
     width: 80%;
     padding: 12px;
     border-radius: 2px #ccc;
@@ -42,7 +42,7 @@ body{
     margin-bottom: 14px;
     font-size: 1.05rem;
 }
-.col-4 .btn{
+.col-md-5 .btn{
     font-size: 1.25rem;
     font-weight: 600;
     padding: 0.6rem 0.4rem;
@@ -61,11 +61,11 @@ body{
     padding: 10px 16px;
     margin: 10px 0;
 }
-.col-4 p{
+.col-md-5 p{
      text-align: center;
      margin-top: 15px;
 }
-.col-4 p .createpage{
+.col-md-5 p .createpage{
     text-decoration: none;
     font-weight: 600;
     color: black;
